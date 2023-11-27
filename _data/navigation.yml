@@ -8,27 +8,17 @@ header:
 
   - titles:
       # @start locale config
-      en      : &EN       Archive
+      en      : &EN       Blog
+      zh-Hans : &ZH_HANS  博客
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
       en-AU   : *EN
-      zh-Hans : &ZH_HANS  归档
       zh      : *ZH_HANS
       zh-CN   : *ZH_HANS
       zh-SG   : *ZH_HANS
-      zh-Hant : &ZH_HANT  歸檔
       zh-TW   : *ZH_HANT
       zh-HK   : *ZH_HANT
-      ko      : &KO       아카이브
-      ko-KR   : *KO
-      fr      : &FR       Archives
-      fr-BE   : *FR
-      fr-CA   : *FR
-      fr-CH   : *FR
-      fr-FR   : *FR
-      fr-LU   : *FR
-      tr      : &TR       Arşivdekiler
       # @end locale config
     url: /archive.html
 
@@ -79,6 +69,10 @@ header:
   # - title:      GitHub
   #   url:        https://github.com/kitian616/jekyll-TeXt-theme
 
-  - title:      
-    en      : &EN       GitHub
-    url: https://github.com/jjzhou012/jjzhou012.github.io
+
+
+
+
+# 侧边
+sidebar:
+  nav: docs-en
