@@ -43,7 +43,64 @@ article_header:
   
 ## 📚 Selected Recent Works
 
+
 <div class="article-list items items--divided">
+<!--  -->
+<!--  -->
+      <article class="item">
+        <div class="item__image">
+          <!-- image -->
+          <img class="image" src="image/survey-gdaug.png">
+        </div>
+        <div class="item__content">
+        <!-- <header><a href="/jekyll-TeXt-theme/page/single.html"><h2 itemprop="headline" class="item__header">Page - Single</h2></a></header> -->
+          <div class="item__description"><div class="article__content" itemprop="description articleBody">
+            <!-- description -->
+          <div class="article__content" markdown="1">
+
+  - **Data Augmentation on Graphs: A Technical Survey**
+  - *Arxiv (Under Review)*
+  - **Jiajun Zhou**#, Chenxuan Xie#, Zhenyu Wen, Xiangyu Zhao, Qi Xuan*.
+  - [[Paper](https://arxiv.org/abs/2212.09970)] [[Github](https://github.com/jjzhou012/GDAug-Survey)]
+</div></div></div></div></article>
+<!--  -->
+<!--  -->
+      <article class="item">
+        <div class="item__image">
+          <!-- image -->
+          <img class="image" src="image/pathmlp-1.png">
+        </div>
+        <div class="item__content">
+        <!-- <header><a href="/jekyll-TeXt-theme/page/single.html"><h2 itemprop="headline" class="item__header">Page - Single</h2></a></header> -->
+          <div class="item__description"><div class="article__content" itemprop="description articleBody">
+            <!-- description -->
+          <div class="article__content" markdown="1">
+
+  - **PathMLP: Smooth Path Towards High-order Homophily**
+  - *Arxiv (Under Review)*
+  - **Jiajun Zhou**#, Chenxuan Xie#, Shengbo Gong, Jiaxu Qian, Shanqing Yu*, Qi Xuan.
+  - [[Paper](https://arxiv.org/abs/2306.13532)] 
+</div></div></div></div></article>
+<!--  -->
+<!--  -->
+      <article class="item">
+        <div class="item__image">
+          <!-- image -->
+          <img class="image" src="image/CIKM-2023.png">
+        </div>
+        <div class="item__content">
+        <!-- <header><a href="/jekyll-TeXt-theme/page/single.html"><h2 itemprop="headline" class="item__header">Page - Single</h2></a></header> -->
+          <div class="item__description"><div class="article__content" itemprop="description articleBody">
+            <!-- description -->
+          <div class="article__content" markdown="1">
+
+  - **Neighborhood Homophily-based Graph Convolutional Network**
+  - *ACM International Conference on Information and Knowledge Management (CIKM 2023, CCF B)*
+  - Shengbo Gong, **Jiajun Zhou***, Chenxuan Xie, Qi Xuan.
+  - [[Paper](https://dl.acm.org/doi/abs/10.1145/3583780.3615195)] [[Code](https://github.com/rockcor/NHGCN)] [[Talk](https://dl.acm.org/action/downloadSupplement?doi=10.1145%2F3583780.3615195&file=2627-video.mp4)]
+</div></div></div></div></article> 
+<!--  -->
+<!--  -->
       <article class="item">
         <div class="item__image">
           <!-- image -->
@@ -74,9 +131,9 @@ article_header:
           <div class="article__content" markdown="1">
 
   - **RobustECD: Enhancement of Network Structure for Robust Community Detection**
-  - *IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE 2021, CCF A, SCI Q2)*
+  - *IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE 2021, CCF A, SCI Q1)*
   - **Jiajun Zhou**, Zhi Chen, Min Du, Lihong Chen, Shanqing Yu, Guanrong Chen, Qi Xuan**.*
-  - [[Paper](https://ieeexplore.ieee.org/document/9454336)] [[Code](https://github.com/jjzhou012/RobustECD)]
+  - [[Paper](https://ieeexplore.ieee.org/document/9454336)] [[Code](https://github.com/jjzhou012/RobustECD)] [[+Appendix](https://arxiv.org/pdf/1911.01670.pdf)]
 </div></div></div></div></article>
 <!--  -->
 <!--  -->
@@ -94,13 +151,14 @@ article_header:
   - **Data Augmentation for Graph Classification**
   - *ACM International Conference on Information and Knowledge Management (CIKM 2020, CCF B)*
   - **Jiajun Zhou**, Jie Shen, Qi Xuan*.
-  - [[Paper](https://dl.acm.org/doi/10.1145/3340531.3412086)]
+  - [[Paper](https://dl.acm.org/doi/10.1145/3340531.3412086)] [[Talk](https://dl.acm.org/action/downloadSupplement?doi=10.1145%2F3340531.3412086&file=3340531.3412086.mp4)]
 </div></div></div></div></article> 
+<!--  -->
 <!--  -->
       <article class="item">
         <div class="item__image">
           <!-- image -->
-          <img class="image" src="image/CIKM-2020.png">
+          <img class="image" src="image/IEEE-TNSE-2020.png">
         </div>
         <div class="item__content">
         <!-- <header><a href="/jekyll-TeXt-theme/page/single.html"><h2 itemprop="headline" class="item__header">Page - Single</h2></a></header> -->
@@ -111,14 +169,52 @@ article_header:
   - **M-Evolve: Structural-Mapping-Based Data Augmentation for Graph Classification**
   - *IEEE Transactions on Network Science and Engineering (IEEE TNSE 2020, SCI Q1)*
   - **Jiajun Zhou**, Jie Shen, Shanqing Yu, Guanrong Chen, Qi Xuan*.
-  - [[Paper](https://ieeexplore.ieee.org/abstract/document/9237158)]
+  <!-- - [[Paper](https://ieeexplore.ieee.org/abstract/document/9237158)]  -->
+  - [[Paper](https://arxiv.org/pdf/2007.05700.pdf)]
 </div></div></div></div></article> 
+<!--  -->
+<!--  -->
+      <article class="item">
+        <div class="item__image">
+          <!-- image -->
+          <img class="image" src="image/identity-blocksys21.png">
+        </div>
+        <div class="item__content">
+        <!-- <header><a href="/jekyll-TeXt-theme/page/single.html"><h2 itemprop="headline" class="item__header">Page - Single</h2></a></header> -->
+          <div class="item__description"><div class="article__content" itemprop="description articleBody">
+            <!-- description -->
+          <div class="article__content" markdown="1">
+
+  - **Identity Inference on Blockchain using Graph Neural Network**
+  - *International Conference on Blockchain and Trustworthy Systems (BlockSys 2021, EI)*
+  - Jie Shen, **Jiajun Zhou**, Yunyi Xie, Shanqing Yu, Qi Xuan*.
+  - [[Paper](https://link.springer.com/chapter/10.1007/978-981-16-7993-3_1)] [[Code](https://github.com/jjzhou012/I2BGNN)]
+</div></div></div></div></article> 
+<!--  -->
+<!--  -->
+      <article class="item">
+        <div class="item__image">
+          <!-- image -->
+          <img class="image" src="image/book-subgraph-aug.png">
+        </div>
+        <div class="item__content">
+        <!-- <header><a href="/jekyll-TeXt-theme/page/single.html"><h2 itemprop="headline" class="item__header">Page - Single</h2></a></header> -->
+          <div class="item__description"><div class="article__content" itemprop="description articleBody">
+            <!-- description -->
+          <div class="article__content" markdown="1">
+
+  - **Subgraph Augmentation with Application to Graph Mining**
+  - *In **Book Chapter** of Graph Data Mining: Algorithm, Security and Application (Springer 2021)*
+  - **Jiajun Zhou**, Jie Shen, Yalu Shan, Qi Xuan, Guanrong Chen.
+  - [[Paper](https://link.springer.com/chapter/10.1007/978-981-16-2609-8_4)]
+</div></div></div></div></article> 
+
 
 </div>
 
 
 
----
+<!-- ---
 
 - **Heterogeneous Feature Augmentation for Ponzi Detection in Ethereum**
   - *IEEE Transactions on Circuits and Systems II: Express Briefs (IEEE TCAS2 2022, SCI-II)*
@@ -132,10 +228,7 @@ article_header:
   - *2022 International Conference on Blockchain and Trustworthy Systems (BlockSys 2022, EI)*
   - Panpan Li, Yunyi Xie, Xinyao Xu, **Jiajun Zhou***, Qi Xuan. **(Corresponding Author)**
   - [[Paper](https://arxiv.org/abs/2204.08194)]
-- **Identity Inference on Blockchain using Graph Neural Network**
-  - *2021 International Conference on Blockchain and Trustworthy Systems (BlockSys 2021, EI)*
-  - Jie Shen, **Jiajun Zhou**, Yunyi Xie, Shanqing Yu, Qi Xuan*.
-  - [[Paper](https://link.springer.com/chapter/10.1007/978-981-16-7993-3_1)] [[Code](https://github.com/jjzhou012/I2BGNN)]
+
 - **Dual-channel Early Warning Framework for Ethereum Ponzi Schemes**
   - *The 7th China National Conference on Big Data & Social Computing (BDSC 2022, EI)*
   - Jie Jin, **Jiajun Zhou***, Chengxiang Jin, Shanqing Yu, Ziwan Zheng, Qi Xuan. **(Corresponding Author)**
@@ -165,7 +258,7 @@ article_header:
 - **Adversarial Attacks on Graphs: How to Hide Your Structural Information**
   - In **Book Chapter** of *Graph Data Mining: Algorithm, Security and Application (Springer 2021)*
   - Yalu Shan, Junhao Zhu, Yunyi Xie, Jinhuan Wang, **Jiajun Zhou**, Bo Zhou, Qi Xuan*.
-  - [[Paper](https://link.springer.com/chapter/10.1007/978-981-16-2609-8_5)]
+  - [[Paper](https://link.springer.com/chapter/10.1007/978-981-16-2609-8_5)] -->
 
 
 
